@@ -1,0 +1,8 @@
+/Users/imbra/code/getz/bin/Debug/netcoreapp1.1/getz.deps.json
+/Users/imbra/code/getz/bin/Debug/netcoreapp1.1/getz.runtimeconfig.json
+/Users/imbra/code/getz/bin/Debug/netcoreapp1.1/getz.runtimeconfig.dev.json
+/Users/imbra/code/getz/bin/Debug/netcoreapp1.1/getz.dll
+/Users/imbra/code/getz/bin/Debug/netcoreapp1.1/getz.pdb
+/Users/imbra/code/getz/obj/Debug/netcoreapp1.1/getz.AssemblyInfo.cs
+/Users/imbra/code/getz/obj/Debug/netcoreapp1.1/getz.dll
+/Users/imbra/code/getz/obj/Debug/netcoreapp1.1/getz.pdb
